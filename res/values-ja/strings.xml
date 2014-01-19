@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">すきまトド</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_todo_detail">TODO詳細</string>
+    <string name="add">追加</string>
+    <string name="apply">適用</string>
+    <string name="cancel">キャンセル</string>
+    <string name="subject">お題</string>
+    <string name="title_activity_todo_list">TODO一覧</string>
+    <string name="delete">削除</string>
+    <string name="ok">OK</string>
+    <string name="confirm_delete">削除しますか？</string>
+    <string name="deleted">「%s」を削除しました。</string>
+    <string name="due_date">期限日</string>
+    <string name="date_format">yyyy-MM-dd</string>
+    <string name="date_empty">----/--/--</string>
+
+</resources>
